@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "date": "2023-05-01",
+    "vehicle": "BB EQ 1",
+    "status": "draft"
+  },
+  {
+    "id": "2",
+    "date": "2023-05-03",
+    "vehicle": "BB EQ 3",
+    "status": "draft"
+  },
+  {
+    "id": "3",
+    "date": "2023-05-04",
+    "vehicle": "BB EQ 8",
+    "status": "ready"
+  },
+  {
+    "id": "4",
+    "date": "2023-05-08",
+    "vehicle": "BB EQ 10",
+    "status": "planned"
+  }
+]
